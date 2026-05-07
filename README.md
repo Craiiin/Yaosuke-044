@@ -108,6 +108,7 @@ python 文件名.py
 ## 七、实验效果总结
 ### 相比前一版，本版提升：
 <img width="480" height="393" alt="woupdt7c_converted" src="https://github.com/user-attachments/assets/12379a7c-f179-49f2-96b1-54eca5bb0f08" />
+
 ✅ **光照更真实**：Blinn-Phong 柔和自然高光  
 ✅ **空间更立体**：硬阴影明确表现物体遮挡关系  
 ✅ **画面无瑕疵**：无黑噪点、无过曝、无自遮挡条纹  
