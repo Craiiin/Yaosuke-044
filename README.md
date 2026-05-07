@@ -1,4 +1,3 @@
-<img width="480" height="393" alt="woupdt7c_converted" src="https://github.com/user-attachments/assets/12379a7c-f179-49f2-96b1-54eca5bb0f08" />
 # 光线投射升级实验：Blinn-Phong 光照与硬阴影渲染
 ## 对比原版 Phong 光照的增强版 Taichi 渲染系统
 
@@ -108,6 +107,7 @@ python 文件名.py
 
 ## 七、实验效果总结
 ### 相比前一版，本版提升：
+<img width="480" height="393" alt="woupdt7c_converted" src="https://github.com/user-attachments/assets/12379a7c-f179-49f2-96b1-54eca5bb0f08" />
 ✅ **光照更真实**：Blinn-Phong 柔和自然高光  
 ✅ **空间更立体**：硬阴影明确表现物体遮挡关系  
 ✅ **画面无瑕疵**：无黑噪点、无过曝、无自遮挡条纹  
@@ -115,13 +115,5 @@ python 文件名.py
 
 本实验完成了**从基础着色到真实感光线追踪**的关键跨越。
 
----
 
-## 八、报告可直接使用的文字（可复制）
-### Blinn-Phong 与 Phong 高光视觉差异
-Phong 模型使用反射向量计算高光，在大入射角、物体边缘处高光衰减过快，高光边缘锐利、生硬，甚至出现断裂；而 Blinn-Phong 模型引入半程向量 H，高光过渡更加平滑柔和，在大角度观察时依然能保持自然的高光区域，更符合真实世界材质的光照表现，渲染效果更柔和、物理更合理。
 
----
-
-如果你需要，我还能帮你生成：
-**实验报告完整版（含原理、步骤、截图说明、代码解释）**
